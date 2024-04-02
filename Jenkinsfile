@@ -1,3 +1,5 @@
+def URL = "$GIT_URL"
+
 pipeline {
     agent any
 
